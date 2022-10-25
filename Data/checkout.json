@@ -1,0 +1,32 @@
+[
+    {
+        "unique_id": "1",
+        "course_name": "Android Basics in Kotlin",
+        "thumbnail": "https://miro.medium.com/max/1024/1*ilHlkvOASDdq4QzxEbn_XQ.jpeg"
+    },
+    {
+        "unique_id": "2",
+        "course_name": "Android developer fundamentals",
+        "thumbnail": "https://miro.medium.com/max/1400/1*TriVn-OMmn-niO4fwGAE8A.jpeg"
+    },
+    {
+        "unique_id": "3",
+        "course_name": "Data Science",
+        "thumbnail": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg"
+    },
+    {
+        "unique_id": "4",
+        "course_name": "Introduction to python programming language",
+        "thumbnail": "https://www.online-tech-tips.com/wp-content/uploads/2021/11/New-Featured-Image.jpg"
+    },
+    {
+        "unique_id": "5",
+        "course_name": "Learn Javascript",
+        "thumbnail": "https://www.freecodecamp.org/news/content/images/2020/04/jsposter.jpg"
+    },
+    {
+        "unique_id": "6",
+        "course_name": "Learn HTML & CSS",
+        "thumbnail": "https://devskiller.com/wp-content/uploads/2020/09/screen-html5-devs.jpg"
+    }
+]
