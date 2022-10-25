@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "name": "Android Basics in Kotlin",
+        "motto": "Compatibility with Java, Null reference elimination, Solution to Java's flaws,Cross-platform app development",
+        "img": "https://miro.medium.com/max/1024/1*ilHlkvOASDdq4QzxEbn_XQ.jpeg"
+    },
+    {
+        "id": "2",
+        "name": "Android developer fundamentals",
+        "motto": "Essential Android programming concepts for building a variety of apps using Java.",
+        "img": "https://miro.medium.com/max/1400/1*TriVn-OMmn-niO4fwGAE8A.jpeg"
+    },
+    {
+        "id": "3",
+        "name": "Data Science",
+        "motto": "Mathematical and statistical formulas to extract data and make sense of it.",
+        "img": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Introduction to python programming language",
+        "motto": "Multi-purpose Usage of Python, Various forms of python programming, Python development areas.",
+        "img": "https://www.online-tech-tips.com/wp-content/uploads/2021/11/New-Featured-Image.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Learn Javascript",
+        "motto": "Javascript for web-development.",
+        "img": "https://www.freecodecamp.org/news/content/images/2020/04/jsposter.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Learn HTML & CSS",
+        "motto": "Building professional font-end designs.",
+        "img": "https://devskiller.com/wp-content/uploads/2020/09/screen-html5-devs.jpg"
+    }
+]
