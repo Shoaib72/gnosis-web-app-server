@@ -1,0 +1,74 @@
+[
+    {
+        "_id": "1",
+        "header": "Explore Kotlin for android development with us!",
+        "Description": "Kotlin is a general-purpose, statically typed, and open-source programming language. It runs on JVM and can be used anywhere Java is used today. It can be used to develop Android apps, server-side apps and much more.",
+        "image_url": "https://miro.medium.com/max/1024/1*ilHlkvOASDdq4QzxEbn_XQ.jpeg",
+        "rating": "4.5",
+        "amount": "$1200",
+        "course_id": "1",
+        "instructor": "John Volta",
+        "instructor_designation": "Professor || Harvard University",
+        "course_level": "Intermediate"
+    },
+    {
+        "_id": "2",
+        "header": "Learn android development fundamentals with us!",
+        "Description": "An android developer designs software and applications for Android devices and the Google Play Store. This software developer creates apps used on Android phones and tablets. They often work for large organizations or directly for an app development company.",
+        "image_url": "https://miro.medium.com/max/1400/1*TriVn-OMmn-niO4fwGAE8A.jpeg",
+        "rating": "4.7",
+        "amount": "$1000",
+        "course_id": "2",
+        "instructor": "John Tremolo",
+        "instructor_designation": "Professor || Boise State University",
+        "course_level": "Intermediate"
+    },
+    {
+        "_id": "3",
+        "header": "Explore basic Data Science with us!",
+        "Description": "Data science can be used to gain knowledge about behaviors and processes, write algorithms that process large amounts of information quickly and efficiently, increase security and privacy of sensitive data, and guide data-driven decision-making.",
+        "image_url": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg",
+        "rating": "4.8",
+        "amount": "$1500",
+        "course_id": "3",
+        "instructor": "Steven K",
+        "instructor_designation": "Professor || Stanford University",
+        "course_level": "Intermediate"
+    },
+    {
+        "_id": "4",
+        "header": "Enjoy learning Python with us!",
+        "Description": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems.",
+        "image_url": "https://www.online-tech-tips.com/wp-content/uploads/2021/11/New-Featured-Image.jpg",
+        "rating": "4.4",
+        "amount": "$1300",
+        "course_id": "4",
+        "instructor": "philip planket",
+        "instructor_designation": "Professor || University of Colombia",
+        "course_level": "Intermediate"
+    },
+    {
+        "_id": "5",
+        "header": "Learn interesting concepts of Javascript with us!",
+        "Description": "Javascript is used by programmers across the world to create dynamic and interactive web content like applications and browsers. JavaScript is so popular that it's the most used programming language in the world, used as a client-side programming language by 97.0% of all websites.",
+        "image_url": "https://www.freecodecamp.org/news/content/images/2020/04/jsposter.jpg",
+        "rating": "4.9",
+        "amount": "$1700",
+        "course_id": "5",
+        "instructor": "Gerrard Vines",
+        "instructor_designation": "Professor || Oxford University",
+        "course_level": "Intermediate"
+    },
+    {
+        "_id": "6",
+        "header": "Learn playing with HTML & CSS with us!",
+        "Description": "HTML (the Hypertext Markup Language) and CSS (Cascading Style Sheets) are two of the core technologies for building Web pages. HTML provides the structure of the page, CSS the (visual and aural) layout, for a variety of devices.",
+        "image_url": "https://devskiller.com/wp-content/uploads/2020/09/screen-html5-devs.jpg",
+        "rating": "4.2",
+        "amount": "$900",
+        "course_id": "6",
+        "instructor": "Pierre Morgan",
+        "instructor_designation": "Professor || Oxford University",
+        "course_level": "Intermediate"
+    }
+]
